@@ -1,0 +1,35 @@
+baseURL = 'https://loaclhost:1313/'
+languageCode = 'ja'
+languageName = 'Japanese'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+title = 'はやてにっき'
+theme = 'ananke'
+coptright = 'NAKA-MURA Hayate'
+
+[params]
+text_color = 'dark-gray'
+background_color_class = 'bg-navy'
+author = 'NAKA-MURA Hayate'
+favicon = '/images/logo.png'
+site_logo = '/images/logo.png'
+
+[[params.ananke_socials]]
+name = 'Misskey'
+url  = 'https://misskey.io/@hay_nh521'
+
+[[params.ananke_socials]]
+name = 'Mastodon'
+url  = 'https://fedibird.com/@hayatehay'
+
+[[params.ananke_socials]]
+name = 'GitHub'
+url  = 'https://github.com/hayatehay/'
+
+[[params.ananke_socials]]
+name = 'Instagram'
+url  = 'https://instagram.com/hay_nh521/'
+
+[[params.ananke_socials]]
+name = 'ウェブサイトに戻る'
+url  = 'https://hayatehay.github.io/'

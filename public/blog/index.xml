@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on はやてにっき</title>
+    <link>https://hayatehay.github.io/blog/blog/</link>
+    <description>Recent content in Blogs on はやてにっき</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 25 Nov 2023 20:43:47 +0900</lastBuildDate><atom:link href="https://hayatehay.github.io/blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoでブログ開設</title>
+      <link>https://hayatehay.github.io/blog/blog/20231125/</link>
+      <pubDate>Sat, 25 Nov 2023 20:43:47 +0900</pubDate>
+      
+      <guid>https://hayatehay.github.io/blog/blog/20231125/</guid>
+      <description>開設というか移転開始！ Hugo好きなら見てみっていわれたわるいのか？ よろしくニキ！ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ アットウィキに載っていた記事</description>
+    </item>
+    
+  </channel>
+</rss>

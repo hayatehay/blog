@@ -5,7 +5,7 @@ defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 title = 'はやてにっき'
 theme = 'ananke'
-coptright = 'NAKA-MURA Hayate'
+copyright = 'NAKA-MURA Hayate'
 
 [params]
 text_color = 'dark-gray'

@@ -1,4 +1,4 @@
-baseURL = 'https://loaclhost:1313/'
+baseURL = 'https://hayatehay.github.io/blog/'
 languageCode = 'ja'
 languageName = 'Japanese'
 defaultContentLanguage = 'ja'

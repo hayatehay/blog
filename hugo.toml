@@ -11,8 +11,8 @@ copyright = 'NAKA-MURA Hayate'
 text_color = 'dark-gray'
 background_color_class = 'bg-navy'
 author = 'NAKA-MURA Hayate'
-favicon = '/images/logo.png'
-site_logo = '/images/logo.png'
+favicon = '/images/common/logo.png'
+site_logo = '/images/common/logo.png'
 
 [[params.ananke_socials]]
 name = 'Misskey'

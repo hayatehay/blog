@@ -1,7 +1,7 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: {{ .Date }}
-featured_image: "/images/common/noimage.png"
+featured_image: /images/{{ title }}/thumb.png
 draft: true
 categories:
 - category

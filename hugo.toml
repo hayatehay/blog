@@ -19,7 +19,7 @@ site_logo = '/blog/images/common/logo.png'
 
 [[params.ananke_socials]]
 name = 'Misskey'
-url  = 'https://misskey.io/@hay_nh521'
+url  = 'https://misskey.io/@hayatehay'
 
 [[params.ananke_socials]]
 name = 'Mastodon'
